@@ -91,29 +91,36 @@ python main.py
 ## 📸 Screenshots
 
 ### Main Menu
+
 ![Main Menu](assets/main-menu.png)
 
 ### User Registration
-![Register](assets/register.png)
+
+![User Registration](assets/register.png)
 
 ### User Login
-![Login](assets/login.png)
+
+![User Login](assets/login.png)
 
 ### Create Bank Account
-![Create Account](assets/create-account.png)
+
+![Create Bank Account](assets/create-account.png)
 
 ### Deposit Money
+
 ![Deposit Money](assets/deposit-money.png)
 
 ### Check Balance
+
 ![Check Balance](assets/check-balance.png)
 
 ### Transaction History
+
 ![Transaction History](assets/transaction-history.png)
 
 ### PDF Bank Statement
-![PDF Statement](assets/pdf-statement.png)
 
+![PDF Bank Statement](assets/pdf-statement.png)
 ---
 
 ## 📜 License
