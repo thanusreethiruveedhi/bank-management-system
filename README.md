@@ -90,7 +90,29 @@ python main.py
 
 ## 📸 Screenshots
 
-_Add screenshots here after capturing them._
+### Main Menu
+![Main Menu](assets/main-menu.png)
+
+### User Registration
+![Register](assets/register.png)
+
+### User Login
+![Login](assets/login.png)
+
+### Create Bank Account
+![Create Account](assets/create-account.png)
+
+### Deposit Money
+![Deposit Money](assets/deposit-money.png)
+
+### Check Balance
+![Check Balance](assets/check-balance.png)
+
+### Transaction History
+![Transaction History](assets/transaction-history.png)
+
+### PDF Bank Statement
+![PDF Statement](assets/pdf-statement.png)
 
 ---
 
