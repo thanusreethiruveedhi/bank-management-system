@@ -110,8 +110,9 @@ python main.py
 ### Transaction History
 ![Transaction History](assets/transaction-history.png)
 
-### PDF Statement
-![PDF Statement](assets/pdf-statement.png)
+### PDF Bank Statement
+
+![PDF Bank Statement](assets/bank-statement.png)
 
 ---
 
