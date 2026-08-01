@@ -89,12 +89,11 @@ python main.py
 ---
 
 ## 📸 Screenshots
-
 ### Main Menu
-![Main Menu](assets/main-menu.png)
+![Main Menu](assets/mainmenu.png)
 
 ### User Registration
-![User Registration](assets/register.png)
+![User Registration](assets/registration.png)
 
 ### User Login
 ![User Login](assets/login.png)
